@@ -1,0 +1,17 @@
+C:\Users\Kyouta.K\source\repos\ColorPickerPj\ColorPickerPj\bin\Debug\ColorPickerPj.exe.config
+C:\Users\Kyouta.K\source\repos\ColorPickerPj\ColorPickerPj\bin\Debug\ColorPickerPj.exe
+C:\Users\Kyouta.K\source\repos\ColorPickerPj\ColorPickerPj\bin\Debug\ColorPickerPj.pdb
+C:\Users\Kyouta.K\source\repos\ColorPickerPj\ColorPickerPj\bin\Debug\MaterialDesignColors.dll
+C:\Users\Kyouta.K\source\repos\ColorPickerPj\ColorPickerPj\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Kyouta.K\source\repos\ColorPickerPj\ColorPickerPj\obj\Debug\MainWindow.g.cs
+C:\Users\Kyouta.K\source\repos\ColorPickerPj\ColorPickerPj\obj\Debug\App.g.cs
+C:\Users\Kyouta.K\source\repos\ColorPickerPj\ColorPickerPj\obj\Debug\ColorPickerPj_MarkupCompile.cache
+C:\Users\Kyouta.K\source\repos\ColorPickerPj\ColorPickerPj\obj\Debug\ColorPickerPj_MarkupCompile.lref
+C:\Users\Kyouta.K\source\repos\ColorPickerPj\ColorPickerPj\obj\Debug\MainWindow.baml
+C:\Users\Kyouta.K\source\repos\ColorPickerPj\ColorPickerPj\obj\Debug\ColorPickerPj.g.resources
+C:\Users\Kyouta.K\source\repos\ColorPickerPj\ColorPickerPj\obj\Debug\ColorPickerPj.Properties.Resources.resources
+C:\Users\Kyouta.K\source\repos\ColorPickerPj\ColorPickerPj\obj\Debug\ColorPickerPj.csproj.GenerateResource.cache
+C:\Users\Kyouta.K\source\repos\ColorPickerPj\ColorPickerPj\obj\Debug\ColorPickerPj.csproj.CoreCompileInputs.cache
+C:\Users\Kyouta.K\source\repos\ColorPickerPj\ColorPickerPj\obj\Debug\ColorPickerPj.csproj.CopyComplete
+C:\Users\Kyouta.K\source\repos\ColorPickerPj\ColorPickerPj\obj\Debug\ColorPickerPj.exe
+C:\Users\Kyouta.K\source\repos\ColorPickerPj\ColorPickerPj\obj\Debug\ColorPickerPj.pdb
