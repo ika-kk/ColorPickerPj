@@ -2,6 +2,7 @@
 
 # 説明
 このソフトは簡易カラーピッカーです。
+https://qiita.com/ika_kk/items/5105bbf0bb443244cd64
 
 # 使用方法
 1. 「ColorPickerPj/bin/Release/ColorPickerPj.exe」を実行します。
